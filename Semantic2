@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<head>
+    <title> Facts about dogs</title>
+</head>
+
+<body>
+
+<header> <h1> Navigational links</h1> </header>
+    
+
+<a href=" HOME">home</a>
+<br>
+<a href="  Posts"> posts</a>
+
+<BR>
+
+<a href=" contacts">contacts</a>
+
+<br>
+
+<h2> Facts about dogs</h2>
+
+<p> Dogs know when they do not have enough information to solve a problem and actively search for more input.
+Dogs have three eyelids.
+</p>
+ 
+
+<img src=" dogg34" alt="dogg34"
+
+
+    
+
+ 
+</body>
+
+
+
+
+
+
+
+
+
+<footer>
+    <p> &copy</p>
+</footer>
+
+
+
+</HTML>
